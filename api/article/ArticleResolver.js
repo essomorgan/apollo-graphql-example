@@ -10,7 +10,7 @@ const tables = {
     }
 };
 
-const oath_id = '***';
+const oath_id = '*';
 
 module.exports = {
     Query: {

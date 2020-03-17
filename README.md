@@ -11,8 +11,8 @@ This is a backend example using apollo-graphql & knex to CRUD data in postgres.
 
 ## folders description
 ### api
-define graphql schemas & types.
+define graphql schemas & types, mapped column of relational database.
 ### components
-customized functions/objects for this example.
+customized functions or objects for this example.
 ### database
 database connection
